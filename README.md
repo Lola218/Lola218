@@ -3,17 +3,17 @@
 
 
 
+:school_satchel: Derzeit bin ich Studnetin bei Dci
 
-🔭 Derzeit bin ich Studnetin bei Dci
+:book: Ich lerne derzeit Java Script,HTMl,CSS, uvm....
 
-👯 Ich lerne derzeit Java Script,HTMl,CSS, uvm....
-
-🤝 immer auf der suche nach neuen möglichkeiten mich weiter zu entwickeln...
+:high_heel:immer auf der suche nach neuen möglichkeiten mich weiter zu entwickeln...
 
 
-💬 wenn ihr fragen habt quatscht mich einfach an ich unterhalte mich gerne mit euch über alles....
 
-:sweat_smile:meine Pronomen sind weiblich also: sie/ihrs
+:speech_balloon: wenn ihr fragen habt quatscht mich einfach an ich unterhalte mich gerne mit euch über alles....
+
+:sweat_smile:meine Pronomen sind weiblich also: sie / ihrs
 
 :smirk:über mich:
 ---
