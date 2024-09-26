@@ -1,4 +1,4 @@
-## Hallo Welt, ich bins Lola...👋
+## Hallo Welt, ich bin's Lola...👋
 
 
 🔭 Derzeit bin ich Studnetin bei Dci
