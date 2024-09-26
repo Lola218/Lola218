@@ -1,5 +1,39 @@
-## Hallo Welt!
-Wie geht es dir...?👋
+## Hallo Welt! Wie geht es dir...?👋
+
+ Hi ich bins Lola 
+ *Hoffe ihr habt Spass*
+
+🔭 Derzeit bin ich Studnet bei Dci
+
+👯 Ich lerne derzeit Java Script,HTMl,CSS, uvm....
+
+🤝 immer nach neuen möglichkeiten mich weiter zu entwickeln...
+
+
+💬 wenn ihr fragen habt quatscht mich einfach an ich unterhalte mich gerne mit euch über alles....
+
+:sweat_smile:meine Pronomen sind ihr/sie
+
+:smirk:über mich:
+---
+-Transfrau
+
+-freundlich
+
+-hilfsbereit
+
+-tolerant
+
+📫 How to reach me loose.kai@gmx.de
+
+Link zum Lebenslauf *work in progress*
+
+
+
+
+
+
+
 
 <!--
 **Lola218/Lola218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
