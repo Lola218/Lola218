@@ -2,6 +2,7 @@
 
 
 
+:de: geboren und aufgewachsen im guten alten deutschland
 
 :school_satchel: Derzeit bin ich Studnetin bei Dci
 
