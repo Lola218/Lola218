@@ -19,6 +19,8 @@
 ---
 -Transfrau
 
+-intelligent
+
 -freundlich
 
 -hilfsbereit
