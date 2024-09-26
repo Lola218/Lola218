@@ -1,4 +1,5 @@
-## Hallo welt wie läuft es...👋
+## Hallo Welt!
+Wie geht es dir...?👋
 
 <!--
 **Lola218/Lola218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
