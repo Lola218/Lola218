@@ -1,6 +1,5 @@
 ## Hallo Welt, ich bins Lola...👋
- 
- *Hoffe ihr habt Spass*
+
 
 🔭 Derzeit bin ich Studnetin bei Dci
 
