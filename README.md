@@ -13,7 +13,7 @@
 
 :speech_balloon: wenn ihr fragen habt quatscht mich einfach an ich unterhalte mich gerne mit euch über alles....
 
-:sweat_smile:meine Pronomen sind weiblich also: sie / ihrs
+:sweat_smile:meine Pronomen sind weiblich also : sie / ihrs
 
 :smirk:über mich:
 ---
