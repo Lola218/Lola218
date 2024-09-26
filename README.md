@@ -1,6 +1,9 @@
 ## Hallo Welt, ich bin's Lola...👋
 
 
+
+
+
 🔭 Derzeit bin ich Studnetin bei Dci
 
 👯 Ich lerne derzeit Java Script,HTMl,CSS, uvm....
