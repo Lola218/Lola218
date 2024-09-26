@@ -3,7 +3,7 @@
  Hi ich bins Lola 
  *Hoffe ihr habt Spass*
 
-🔭 Derzeit bin ich Studnet bei Dci
+🔭 Derzeit bin ich Studnetin bei Dci
 
 👯 Ich lerne derzeit Java Script,HTMl,CSS, uvm....
 
