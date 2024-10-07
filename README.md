@@ -30,7 +30,7 @@
 
 uvm....
 
-:computer: How to reach me loose.kai@gmx.de
+:computer: How to reach me kai.loose@dci-student.org
 
 Link zum Lebenslauf *work in progress*
 
